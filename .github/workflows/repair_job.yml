@@ -4,7 +4,7 @@ on: pull_request
 
 jobs:
   repair-check:
-    runs-on: ubunut-latest
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout Code
         uses: actions/checkout@v4
