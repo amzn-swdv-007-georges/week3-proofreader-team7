@@ -1,17 +1,16 @@
 name: Broken Press Schematic
 
-on: pull_requets
+on: pull_request
 
 jobs:
   repair-check:
     runs-on: ubunut-latest
-
     steps:
-      name: Checkout Code
-      uses: actions/checkout@v4
-
+      - name: Checkout Code
+        uses: actions/checkout@v4
+  
       - name: Test the press
-        run: ech "The printing press is running"
-
+        run: echo "The printing press is running"
+  
       - name: Final inspection
         run: echo "Schematic repaired"
