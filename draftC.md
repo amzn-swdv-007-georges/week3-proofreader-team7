@@ -1,1 +1,1 @@
-When I arrrived at Universall Press headquarters, the newsroom already felt busy and energetic. Screens were glowing, messages were coming in quickly, and the team was preparing the next edition with great care.
+When I arrived at Universal Press headquarters, the newsroom already felt busy and energetic. Screens were glowing, messages were coming in quickly, and the team was preparing the next edition with great care.
