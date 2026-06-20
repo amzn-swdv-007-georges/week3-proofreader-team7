@@ -1,1 +1,0 @@
-This morning I traveled to the Universal Press headquarters by train. I arrived a little early, bought a coffee near the station, and checked the day’s editorial schedule before walking into the building.
